@@ -1,5 +1,5 @@
 # Note
-## iOS-Unity 통합 앱을 GitHub에 업로드하는 과정
+## iOS-Unity 통합 앱을 GitHub에 업로드 과정
 (iOS와 Unity를 통합하는 일반적인 방법)
 
 ### 프로젝트 설정
